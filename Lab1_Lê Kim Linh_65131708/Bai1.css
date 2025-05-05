@@ -1,0 +1,30 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+  }
+  
+.header {
+    text-align: center;
+   border: 3px solid #FE21FD;
+   color: rgb(27, 27, 170);
+}
+.Col-left {
+    text-align: center;
+   border: 3px solid #1817FC;
+   color: rgb(27, 27, 170);
+}
+.Col-right {
+    text-align: center;
+   border: 3px solid #F7FF1F;
+   color: rgb(27, 27, 170);
+}
+.content {
+    text-align: center;
+   border: 3px solid #F84D4F;
+   color: rgb(27, 27, 170);
+}
+.footer{
+    border: 3px solid #25FE25;
+    color: rgb(27, 27, 170);
+}
